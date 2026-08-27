@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mirence的主页
 
-<!--
-**Mirence219/Mirence219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 语言
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=py,js,c,cpp,cs,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技术栈
+
+[![My Skills](https://skillicons.dev/icons?i=qt,sqlite,git,nginx,flask)](https://skillicons.dev)
+
+## 操作系统
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
